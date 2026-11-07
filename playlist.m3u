@@ -1,0 +1,73 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.harmonyfm.de/fileadmin/templates/harmonyfm/images/logo.png" group-title="Radio",harmony.fm Live
+https://mp3.harmonyfm.de/harmonyfm/hqlivestream.mp3
+
+#EXTINF:-1 tvg-logo="https://www.harmonyfm.de/fileadmin/templates/harmonyfm/images/logo.png" group-title="Radio",harmony.fm 80er
+http://mp3.harmonyfm.de/hrmchannels/hq80
+
+#EXTINF:-1 tvg-logo="https://www.harmonyfm.de/fileadmin/templates/harmonyfm/images/logo.png" group-title="Radio",harmony.fm 80er 90er Kultnacht
+http://mp3.harmonyfm.de/hrmchannels/hq80er90erkultnight.mp3
+
+#EXTINF:-1 tvg-logo="https://www.harmonyfm.de/fileadmin/templates/harmonyfm/images/logo.png" group-title="Radio",harmony.fm Schlager
+http://mp3.harmonyfm.de/hrmchannels/hqstars02.mp3
+
+#EXTINF:-1 tvg-logo="https://www.harmonyfm.de/fileadmin/templates/harmonyfm/images/logo.png" group-title="Radio",harmony.fm Xmas
+http://mp3.harmonyfm.de/hrmplus/hqxmas.mp3
+
+#EXTINF:-1 tvg-logo="https://www.spreeradio.de/favicon.ico" group-title="Radio",105.5 SpreeRadio Live
+https://stream.spreeradio.de/spree.live/mp3-128/konsole
+
+#EXTINF:-1 tvg-logo="https://www.spreeradio.de/favicon.ico" group-title="Radio",105.5 SpreeRadio Event
+http://stream.spreeradio.de/spree-event/mp3-128/konsole
+
+#EXTINF:-1 tvg-logo="https://www.spreeradio.de/favicon.ico" group-title="Radio",105.5 SpreeRadio 80er
+http://stream.spreeradio.de/spree-80er/mp3-128/konsole
+
+#EXTINF:-1 tvg-logo="https://www.spreeradio.de/favicon.ico" group-title="Radio",105.5 SpreeRadio Love
+http://stream.spreeradio.de/spree-love/mp3-128/konsole
+
+#EXTINF:-1 tvg-logo="https://www.spreeradio.de/favicon.ico" group-title="Radio",105.5 SpreeRadio Rock
+http://stream.spreeradio.de/spree-rock/mp3-128/konsole
+
+#EXTINF:-1 tvg-logo="https://absolutradio.de/assets/img/logos/absolut-christmastime.png" group-title="Radio",Absolut Bella / Christmastime
+https://edge15.live-sm.absolutradio.de/absolut-christmastime/stream/mp3
+
+#EXTINF:-1 tvg-logo="https://absolutradio.de/assets/img/logos/absolut-lovesongs.png" group-title="Radio",Absolut Lovesongs
+https://absolut-lovesongs.live-sm.absolutradio.de/absolut-lovesongs/stream/mp3
+
+#EXTINF:-1 tvg-logo="https://absolutradio.de/assets/img/logos/absolut-relax.png" group-title="Radio",Absolut Relax
+https://absolut-relax.live-sm.absolutradio.de/absolut-relax/stream/mp3
+
+#EXTINF:-1 tvg-logo="https://absolutradio.de/assets/img/logos/absolut-top.png" group-title="Radio",Absolut Top
+https://absolut-top.live-sm.absolutradio.de/absolut-top/stream/mp3
+
+#EXTINF:-1 tvg-logo="https://www.bigfm.de/favicon.ico" group-title="Radio",bigFM Deutschland
+https://stream.bigfm.de/deutschland/mp3-128/private
+
+#EXTINF:-1 tvg-logo="https://www.dashitradio.de/favicon.ico" group-title="Radio",DAS HITRADIO
+https://stream.dashitradio.de/dashitradio/mp3-128/stream.mp3
+
+#EXTINF:-1 tvg-logo="https://deluxemusic.tv/favicon.ico" group-title="Radio",Deluxe Music
+https://audiostreams.deluxemusic.tv/deluxemusic/mp3-192
+
+#EXTINF:-1 tvg-logo="https://deluxemusic.tv/favicon.ico" group-title="Radio",Deluxe Lounge
+https://audiostreams.deluxemusic.tv/lounge/mp3-192
+
+#EXTINF:-1 tvg-logo="https://www.energy.de/favicon.ico" group-title="Radio",ENERGY Digital
+http://nrj.de/digital.mp3
+
+#EXTINF:-1 tvg-logo="https://www.energy.de/favicon.ico" group-title="Radio",ENERGY Disney Hits
+http://nrj.de/disneyhits.mp3
+
+#EXTINF:-1 tvg-logo="https://www.liferadio.at/favicon.ico" group-title="Radio",Life Radio Oberösterreich
+https://stream.liferadio.at/liferadio/mp3-192.mp3
+
+#EXTINF:-1 tvg-logo="https://www.ffh.de/fileadmin/templates/ffh/images/logo.png" group-title="Radio",FFH Charts Hits
+http://streamtdy.ir-media-tec.com/charts-hits/mp3-128/web/play.mp3
+
+#EXTINF:-1 tvg-logo="https://www.ffh.de/fileadmin/templates/ffh/images/logo.png" group-title="Radio",FFH Schlager Cult
+https://streamtdy.ir-media-tec.com/sc-hessen/mp3-128/web/play.mp3
+
+#EXTINF:-1 tvg-logo="https://www.ffh.de/fileadmin/templates/ffh/images/logo.png" group-title="Radio",FFH Xmas Hits
+https://streamtdy.ir-media-tec.com/xmas-hits/mp3-128/web/play.mp3
