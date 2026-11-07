@@ -55,7 +55,7 @@ https://audiostreams.deluxemusic.tv/deluxemusic/mp3-192
 https://audiostreams.deluxemusic.tv/lounge/mp3-192
 
 #EXTINF:-1 tvg-logo="https://www.energy.de/favicon.ico" group-title="Radio",ENERGY Digital
-http://nrj.de/digital.mp3
+http://nrj.de/digital   
 
 #EXTINF:-1 tvg-logo="https://www.energy.de/favicon.ico" group-title="Radio",ENERGY Disney Hits
 http://nrj.de/disneyhits.mp3
@@ -77,3 +77,9 @@ http://rtlberlin.streamabc.net/rtlb-1046rtllive-mp3-192-4947175
 
 #EXTINF:-1 tvg-logo="https://www.hr3.de/favicon.ico" group-title="Radio",hr3 Live
 https://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hitradio_%C3%963.svg/200px-Hitradio_%C3%963.svg.png" group-title="Österreich",Ö3
+http://orf-live.ors-shoutcast.at/oe3-q2a
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kronehit_Logo2018_Nachtblau_rgb.svg/200px-Kronehit_Logo2018_Nachtblau_rgb.svg.png" group-title="Österreich",kronehit
+https://secureonair.krone.at/kronehit-ultra-hd.
