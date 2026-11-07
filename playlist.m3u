@@ -66,8 +66,14 @@ https://stream.liferadio.at/liferadio/mp3-192.mp3
 #EXTINF:-1 tvg-logo="https://www.ffh.de/fileadmin/templates/ffh/images/logo.png" group-title="Radio",FFH Charts Hits
 http://streamtdy.ir-media-tec.com/charts-hits/mp3-128/web/play.mp3
 
-#EXTINF:-1 tvg-logo="https://www.ffh.de/fileadmin/templates/ffh/images/logo.png" group-title="Radio",FFH Schlager Cult
-https://streamtdy.ir-media-tec.com/sc-hessen/mp3-128/web/play.mp3
-
 #EXTINF:-1 tvg-logo="https://www.ffh.de/fileadmin/templates/ffh/images/logo.png" group-title="Radio",FFH Xmas Hits
 https://streamtdy.ir-media-tec.com/xmas-hits/mp3-128/web/play.mp3
+
+#EXTINF:-1 tvg-logo="https://www.ffh.de/fileadmin/templates/ffh/images/logo.png" group-title="Radio",FFH Eure Superstars
+http://streamtdy.ir-media-tec.com/eure-superstars/mp3-128/web/play.mp3
+
+#EXTINF:-1 tvg-logo="https://www.104.6rtl.com/favicon.ico" group-title="Radio",104.6 RTL Berlin
+http://rtlberlin.streamabc.net/rtlb-1046rtllive-mp3-192-4947175
+
+#EXTINF:-1 tvg-logo="https://www.hr3.de/favicon.ico" group-title="Radio",hr3 Live
+https://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3
